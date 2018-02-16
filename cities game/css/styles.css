@@ -1,0 +1,49 @@
+body{
+	background-image: url(city.jpg);
+	background-size: all;
+}
+#name{
+	text-align: center;
+	padding-bottom: 10px;
+			color: #FFFFFF;
+}
+
+#view
+{  
+	width: 120px;
+	margin: auto;
+	margin-left: 570px;
+}
+
+#input{
+	text-align: center;
+}
+#map{
+	width: 600px; 
+	height: 400px;
+	margin: auto;
+	margin-top: 50px;
+}
+#add
+{
+	text-align: center;
+}
+#voice
+{
+	background: url(voice_icon.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	outline: none;
+	-webkit-border-radius: 100px;
+	width: 24px;
+	height: 24px;
+}
+#my_id
+{
+	width: 15px;
+	margin: auto;
+}
+#big_list
+{
+color: #FFFFFF;
+}
